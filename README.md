@@ -22,6 +22,7 @@ Le compilateur génère un fichier _anonymous.asm contenant le code assembleur.
 
 Structure
 bash
+```
 .
 ├── src/         # Fichiers sources du compilateur
 │   ├── codegen.c
@@ -44,3 +45,4 @@ bash
 ├── makefile
 ├── run_tests.sh
 └── _anonymous.asm
+```
