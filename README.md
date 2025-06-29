@@ -19,8 +19,8 @@ make
 # Sortie
 Le compilateur génère un fichier _anonymous.asm contenant le code assembleur.
 
-@
-Structure
+
+#Structure
 .
 ├── src/         # Fichiers sources du compilateur
 │   ├── codegen.c
